@@ -14,13 +14,6 @@ Sorry, there is an obstacle in this place.
 
 c) Fill the other array elements with Os.
 d) Display the array to the user as shown below.
-
-   0 0 0 0 1
-   0 1 0 0 0 
-   0 0 0 0 0 
-   0 0 1 0 0 
-   1 0 0 0 1
-
 e) Ask the user to input the start location of the object in the maze and find and display the directions it can move without obstacles. 
 Consider only up, down, left and right cells. The start location can't be an obstacle.
 

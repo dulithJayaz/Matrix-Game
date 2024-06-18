@@ -1,5 +1,6 @@
 # Matrix Game
-This is a C programming project we had to do in the '2023 November - Version 1A' past paper of 'IT1010 - Introduction to Programming' module of SLIIT. I tried doing the question in different ways to derive the solution. The following is the description of the project.
+This is a C programming project we had to do in the '2023 November - Version 1A' past paper of 'IT1010 - Introduction to Programming' module of SLIIT. I tried doing the question in a functional programing approach
+to derive the solution. The following is the description of the project.
 
 You are supposed to write a C program to implement an obstacle game where you have an object to move from one location to another by avoiding obstacles. 
 Obstacles are represented using 1s and other areas by 0s. Follow the steps given below.
